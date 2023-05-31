@@ -99,6 +99,7 @@ GND is the ground pin.
 
 
 ## STM 32 CUBE PROGRAM :
+```
 while (1)
 
 HAL_ADC_Start (&hadc);
@@ -134,6 +135,7 @@ HAL_GPIO_Write Pin (GPIOA, GPIO_PIN_0, GPIO_PIN_SET) ::
 /
 
 }
+```
 
 
 
